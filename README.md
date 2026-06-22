@@ -5,7 +5,7 @@ Junior Web Developer | React & Node.js Enthusiast | Lifelong Learner
 </h3>
 
 <p align="center">
-Sono un laureato in Filosofia appassionato di sviluppo web e tecnologia.
+Sono un laureato in Filosofia dell'Informazione e appassionato di sviluppo web e tecnologia.
 Mi piace trasformare idee in applicazioni concrete, imparare nuove tecnologie e affrontare problemi complessi con un approccio analitico e creativo.
 </p>
 
