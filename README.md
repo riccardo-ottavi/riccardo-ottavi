@@ -1,26 +1,85 @@
-<h1 align="center">Ciao 👋, sono Riccardo</h1>
-<h3 align="center">Un appassionato Jr Developer</h3>
+<h1 align="center">Ciao 👋, sono Riccardo Ottavi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riccardo-ottavi&label=Profile%20views&color=0e75b6&style=flat" alt="riccardo-ottavi" /> </p>
+<h3 align="center">
+Junior Web Developer | React & Node.js Enthusiast | Lifelong Learner
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riccardo-ottavi" alt="riccardo-ottavi" /></a> </p>
-
-- 🔭 Al momento sto lavorando su [Spotify-clone](https://spotify-clone-project-rho.vercel.app/)
-
-- 🌱 Sto attualmente studiando **Python, Wordpress, SAP's ABAP/4, Java**
-
-- 👯 Sto cercando una posizione come **Web Developer**
-
-- 🤝 Collaboriamo su un progetto? [LolBoard - League of legend stats](https://lolboard.vercel.app/)
-
-- 💬 Chiedimi **React, Javascript, Express, Node.js**
-
-- 📫 Come raggiungermi **riccardoottavidev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riccardo-ottavi-b542533b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riccardo-ottavi-b542533b8/" height="30" width="40" /></a>
+<p align="center">
+Sono un laureato in Filosofia appassionato di sviluppo web e tecnologia.
+Mi piace trasformare idee in applicazioni concrete, imparare nuove tecnologie e affrontare problemi complessi con un approccio analitico e creativo.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riccardo-ottavi&label=Profile%20Views&color=0e75b6&style=flat" alt="riccardo-ottavi" />
+</p>
+
+---
+
+## 🚀 Attualmente
+
+- 🔭 Sto lavorando su **Spotify Clone**
+  👉 https://spotify-clone-project-rho.vercel.app/
+
+- 🌱 Sto studiando:
+  **Python · WordPress · SAP ABAP/4 · Java**
+
+- 👯 Sono alla ricerca di opportunità come
+  **Junior Web Developer**
+
+- 🤝 Sempre disponibile per collaborare su progetti interessanti.
+  Prova il mio progetto:
+  **LolBoard - League of Legends Stats**
+  👉 https://lolboard.vercel.app/
+
+- 💬 Chiedimi di:
+  **React, JavaScript, Express e Node.js**
+
+- 📫 Contattami:
+  **riccardoottavidev@gmail.com**
+
+---
+
+## 🌐 Contatti
+
+<p align="left">
+<a href="https://www.linkedin.com/in/riccardo-ottavi-b542533b8/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,postman,jest" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riccardo-ottavi&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo-ottavi&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riccardo-ottavi&theme=tokyonight&row=1&column=6" />
+</p>
